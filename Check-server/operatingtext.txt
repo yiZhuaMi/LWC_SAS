@@ -1,0 +1,39 @@
+客户端IP地址：/127.0.0.1    端口号：50328    time:2016-06-06 15:14:38    Operation:search    keyword:数据
+客户端IP地址：/127.0.0.1    端口号：51533    time:2016-06-07 16:25:09    Operation:search    keyword:数
+客户端IP地址：/172.33.16.60    端口号：51846    time:2016-06-08 21:55:59    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：51509    time:2016-06-13 22:02:18    Operation:search    keyword:'empty'
+客户端IP地址：/127.0.0.1    端口号：50274    time:2016-06-21 15:57:34    Operation:delete    Value:student    Col:user    Bookid:920725
+客户端IP地址：/127.0.0.1    端口号：50378    time:2016-06-21 16:02:50    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50520    time:2016-06-21 16:07:30    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50532    time:2016-06-21 16:08:27    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50554    time:2016-06-21 16:09:08    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50554    time:2016-06-21 16:09:37    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50554    time:2016-06-21 16:09:41    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50554    time:2016-06-21 16:10:28    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50702    time:2016-06-21 16:38:42    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50704    time:2016-06-21 16:40:18    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50706    time:2016-06-21 16:40:40    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50708    time:2016-06-21 16:41:00    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50710    time:2016-06-21 16:51:23    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50710    time:2016-06-21 16:51:39    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50733    time:2016-06-21 16:56:26    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50733    time:2016-06-21 16:56:35    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50736    time:2016-06-21 16:57:43    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50736    time:2016-06-21 16:57:49    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50736    time:2016-06-21 16:58:04    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50736    time:2016-06-21 16:58:14    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50742    time:2016-06-21 16:59:15    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50742    time:2016-06-21 16:59:23    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50745    time:2016-06-21 17:00:04    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50747    time:2016-06-21 17:00:38    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50747    time:2016-06-21 17:00:48    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50750    time:2016-06-21 17:01:14    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50752    time:2016-06-21 17:02:20    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50754    time:2016-06-21 17:02:57    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50754    time:2016-06-21 17:03:02    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50546    time:2016-06-21 21:17:33    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50583    time:2016-06-21 21:23:08    Operation:login
+客户端IP地址：/127.0.0.1    端口号：49236    time:2016-06-22 08:46:03    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50059    time:2016-06-22 10:15:08    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50068    time:2016-06-22 10:18:38    Operation:login
+客户端IP地址：/127.0.0.1    端口号：50070    time:2016-06-22 10:19:34    Operation:login
